@@ -1,0 +1,19 @@
+{
+  "collection": "https://multimedialitysummerschool.github.io/NotarialDocuments/iiif/index.json",
+  "devCollection": "https://multimedialitysummerschool.github.io/NotarialDocuments/iiif/index.json",
+  "featured": [
+    "https://multimedialitysummerschool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/manifest.json"
+  ],
+  "metadata": ["Date", "Notary"],
+  "label": { "none": ["Collection of Documents from the Accademia di San Luca"] },
+  "summary": {
+    "none": ["The documents used here have been exported using Tropy extension Tropiiify"]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
