@@ -1,10 +1,11 @@
 {
-  "collection": "https://multimedialitysummerschool.github.io/NotarialDocuments/iiif/index.json",
-  "devCollection": "https://multimedialitysummerschool.github.io/NotarialDocuments/iiif/index.json",
+  "collection": "https://multimedialitysummerschool.github.io/NotarialDocuments2/iiif/index.json",
+  "devCollection": "https://multimedialitysummerschool.github.io/NotarialDocuments2/iiif/index.json",
   "featured": [
-    "https://multimedialitysummerschool.github.io/NotarialDocuments/iiif/asrtcsvol054216210522/manifest.json"
+    "https://multimedialitysummerschool.github.io/NotarialDocuments2/iiif/asrtcsvol054416281005/manifest.json",
+    "https://multimedialitysummerschool.github.io/NotarialDocuments2/iiif/asrtcsvol054416280411b/manifest.json"
   ],
-  "metadata": ["Date", "Notary"],
+  "metadata": ["Date", "Notary", "Key terms", "Associated name", "Document type"],
   "label": { "none": ["Collection of Documents from the Accademia di San Luca"] },
   "summary": {
     "none": ["The documents used here have been exported using Tropy extension Tropiiify"]
